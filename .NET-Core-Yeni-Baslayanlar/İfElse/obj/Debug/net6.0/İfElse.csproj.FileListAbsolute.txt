@@ -1,0 +1,15 @@
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\İfElse\bin\Debug\net6.0\İfElse.exe
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\İfElse\bin\Debug\net6.0\İfElse.deps.json
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\İfElse\bin\Debug\net6.0\İfElse.runtimeconfig.json
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\İfElse\bin\Debug\net6.0\İfElse.dll
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\İfElse\bin\Debug\net6.0\İfElse.pdb
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\İfElse\obj\Debug\net6.0\İfElse.csproj.AssemblyReference.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\İfElse\obj\Debug\net6.0\İfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\İfElse\obj\Debug\net6.0\İfElse.AssemblyInfoInputs.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\İfElse\obj\Debug\net6.0\İfElse.AssemblyInfo.cs
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\İfElse\obj\Debug\net6.0\İfElse.csproj.CoreCompileInputs.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\İfElse\obj\Debug\net6.0\İfElse.dll
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\İfElse\obj\Debug\net6.0\refint\İfElse.dll
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\İfElse\obj\Debug\net6.0\İfElse.pdb
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\İfElse\obj\Debug\net6.0\İfElse.genruntimeconfig.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\İfElse\obj\Debug\net6.0\ref\İfElse.dll
