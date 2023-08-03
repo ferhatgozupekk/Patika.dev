@@ -1,0 +1,5 @@
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\SwitchCase\obj\Debug\net6.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfo.cs
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.CoreCompileInputs.cache
