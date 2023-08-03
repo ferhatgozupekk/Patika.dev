@@ -1,0 +1,15 @@
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Loops_While\bin\Debug\net6.0\Loops_While.exe
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Loops_While\bin\Debug\net6.0\Loops_While.deps.json
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Loops_While\bin\Debug\net6.0\Loops_While.runtimeconfig.json
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Loops_While\bin\Debug\net6.0\Loops_While.dll
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Loops_While\bin\Debug\net6.0\Loops_While.pdb
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Loops_While\obj\Debug\net6.0\Loops_While.csproj.AssemblyReference.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Loops_While\obj\Debug\net6.0\Loops_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Loops_While\obj\Debug\net6.0\Loops_While.AssemblyInfoInputs.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Loops_While\obj\Debug\net6.0\Loops_While.AssemblyInfo.cs
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Loops_While\obj\Debug\net6.0\Loops_While.csproj.CoreCompileInputs.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Loops_While\obj\Debug\net6.0\Loops_While.dll
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Loops_While\obj\Debug\net6.0\refint\Loops_While.dll
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Loops_While\obj\Debug\net6.0\Loops_While.pdb
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Loops_While\obj\Debug\net6.0\Loops_While.genruntimeconfig.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Loops_While\obj\Debug\net6.0\ref\Loops_While.dll
