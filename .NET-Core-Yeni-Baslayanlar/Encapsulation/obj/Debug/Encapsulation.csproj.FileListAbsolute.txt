@@ -1,0 +1,8 @@
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Encapsulation\obj\Debug\Encapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Encapsulation\obj\Debug\Encapsulation.pdb
