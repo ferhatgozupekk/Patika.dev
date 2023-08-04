@@ -1,0 +1,8 @@
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\StaticClassMembers\bin\Debug\StaticClassMembers.exe.config
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\StaticClassMembers\bin\Debug\StaticClassMembers.exe
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\StaticClassMembers\bin\Debug\StaticClassMembers.pdb
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\StaticClassMembers\obj\Debug\StaticClassMembers.csproj.AssemblyReference.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\StaticClassMembers\obj\Debug\StaticClassMembers.csproj.SuggestedBindingRedirects.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\StaticClassMembers\obj\Debug\StaticClassMembers.csproj.CoreCompileInputs.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\StaticClassMembers\obj\Debug\StaticClassMembers.exe
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\StaticClassMembers\obj\Debug\StaticClassMembers.pdb
