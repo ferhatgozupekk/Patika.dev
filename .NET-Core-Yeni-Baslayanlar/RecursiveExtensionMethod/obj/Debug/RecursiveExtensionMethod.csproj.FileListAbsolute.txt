@@ -1,0 +1,8 @@
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\RecursiveExtensionMethod\bin\Debug\RecursiveExtensionMethod.exe.config
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\RecursiveExtensionMethod\bin\Debug\RecursiveExtensionMethod.exe
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\RecursiveExtensionMethod\bin\Debug\RecursiveExtensionMethod.pdb
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\RecursiveExtensionMethod\obj\Debug\RecursiveExtensionMethod.csproj.AssemblyReference.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\RecursiveExtensionMethod\obj\Debug\RecursiveExtensionMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\RecursiveExtensionMethod\obj\Debug\RecursiveExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\RecursiveExtensionMethod\obj\Debug\RecursiveExtensionMethod.exe
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\RecursiveExtensionMethod\obj\Debug\RecursiveExtensionMethod.pdb
