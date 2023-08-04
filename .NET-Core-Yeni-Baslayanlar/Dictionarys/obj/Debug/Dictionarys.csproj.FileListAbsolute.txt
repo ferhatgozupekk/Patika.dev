@@ -1,0 +1,8 @@
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Dictionarys\bin\Debug\Dictionarys.exe.config
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Dictionarys\bin\Debug\Dictionarys.exe
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Dictionarys\bin\Debug\Dictionarys.pdb
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Dictionarys\obj\Debug\Dictionarys.csproj.AssemblyReference.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Dictionarys\obj\Debug\Dictionarys.csproj.SuggestedBindingRedirects.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Dictionarys\obj\Debug\Dictionarys.csproj.CoreCompileInputs.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Dictionarys\obj\Debug\Dictionarys.exe
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Dictionarys\obj\Debug\Dictionarys.pdb
