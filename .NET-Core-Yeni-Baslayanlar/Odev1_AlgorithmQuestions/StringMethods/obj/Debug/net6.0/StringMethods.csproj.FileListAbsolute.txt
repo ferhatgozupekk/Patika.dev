@@ -1,0 +1,15 @@
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1_AlgorithmQuestions\StringMethods\bin\Debug\net6.0\StringMethods.exe
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1_AlgorithmQuestions\StringMethods\bin\Debug\net6.0\StringMethods.deps.json
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1_AlgorithmQuestions\StringMethods\bin\Debug\net6.0\StringMethods.runtimeconfig.json
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1_AlgorithmQuestions\StringMethods\bin\Debug\net6.0\StringMethods.dll
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1_AlgorithmQuestions\StringMethods\bin\Debug\net6.0\StringMethods.pdb
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1_AlgorithmQuestions\StringMethods\obj\Debug\net6.0\StringMethods.csproj.AssemblyReference.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1_AlgorithmQuestions\StringMethods\obj\Debug\net6.0\StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1_AlgorithmQuestions\StringMethods\obj\Debug\net6.0\StringMethods.AssemblyInfoInputs.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1_AlgorithmQuestions\StringMethods\obj\Debug\net6.0\StringMethods.AssemblyInfo.cs
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1_AlgorithmQuestions\StringMethods\obj\Debug\net6.0\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1_AlgorithmQuestions\StringMethods\obj\Debug\net6.0\StringMethods.dll
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1_AlgorithmQuestions\StringMethods\obj\Debug\net6.0\refint\StringMethods.dll
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1_AlgorithmQuestions\StringMethods\obj\Debug\net6.0\StringMethods.pdb
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1_AlgorithmQuestions\StringMethods\obj\Debug\net6.0\StringMethods.genruntimeconfig.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1_AlgorithmQuestions\StringMethods\obj\Debug\net6.0\ref\StringMethods.dll
