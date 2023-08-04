@@ -1,0 +1,8 @@
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\DateTimeAndMath\bin\Debug\DateTimeAndMath.exe.config
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\DateTimeAndMath\bin\Debug\DateTimeAndMath.exe
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\DateTimeAndMath\bin\Debug\DateTimeAndMath.pdb
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\DateTimeAndMath\obj\Debug\DateTimeAndMath.csproj.AssemblyReference.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\DateTimeAndMath\obj\Debug\DateTimeAndMath.csproj.SuggestedBindingRedirects.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\DateTimeAndMath\obj\Debug\DateTimeAndMath.csproj.CoreCompileInputs.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\DateTimeAndMath\obj\Debug\DateTimeAndMath.exe
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\DateTimeAndMath\obj\Debug\DateTimeAndMath.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeAndMath", "DateTimeAndMath.csproj", "{BFC531DD-5C3E-4509-870C-EC39A078DA1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC531DD-5C3E-4509-870C-EC39A078DA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC531DD-5C3E-4509-870C-EC39A078DA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC531DD-5C3E-4509-870C-EC39A078DA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC531DD-5C3E-4509-870C-EC39A078DA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE04B301-85D1-419A-89EA-623D203824BF}
+	EndGlobalSection
+EndGlobal
