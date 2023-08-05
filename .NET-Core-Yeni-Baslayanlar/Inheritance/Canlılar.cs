@@ -6,7 +6,21 @@ using System.Threading.Tasks;
 
 namespace Inheritance
 {
-    internal class Canlılar
+    public class Canlılar
     {
+        public void Beslenme()
+        {
+            Console.WriteLine("canlılar beslerin");
+        }
+
+        public void Solunum()
+        {
+            Console.WriteLine("canlılar solunum yapar");
+        }
+
+        public void Bosaltim()
+        {
+            Console.WriteLine("canlılar boşaltım yapar");
+        }
     }
 }
