@@ -1,0 +1,8 @@
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Proje1TelefonRehberUygulaması\obj\Debug\Proje1TelefonRehberUygulaması.csproj.AssemblyReference.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Proje1TelefonRehberUygulaması\obj\Debug\Proje1TelefonRehberUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Proje1TelefonRehberUygulaması\obj\Debug\Proje1TelefonRehberUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Proje1TelefonRehberUygulaması\bin\Debug\Proje1TelefonRehberUygulaması.exe.config
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Proje1TelefonRehberUygulaması\bin\Debug\Proje1TelefonRehberUygulaması.exe
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Proje1TelefonRehberUygulaması\bin\Debug\Proje1TelefonRehberUygulaması.pdb
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Proje1TelefonRehberUygulaması\obj\Debug\Proje1TelefonRehberUygulaması.exe
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Proje1TelefonRehberUygulaması\obj\Debug\Proje1TelefonRehberUygulaması.pdb
