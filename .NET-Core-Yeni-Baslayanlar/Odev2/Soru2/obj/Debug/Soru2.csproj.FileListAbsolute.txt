@@ -1,0 +1,8 @@
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev2\Soru2\bin\Debug\Soru2.exe.config
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev2\Soru2\bin\Debug\Soru2.exe
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev2\Soru2\bin\Debug\Soru2.pdb
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev2\Soru2\obj\Debug\Soru2.csproj.AssemblyReference.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev2\Soru2\obj\Debug\Soru2.csproj.SuggestedBindingRedirects.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev2\Soru2\obj\Debug\Soru2.csproj.CoreCompileInputs.cache
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev2\Soru2\obj\Debug\Soru2.exe
+C:\Users\fener\Desktop\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev2\Soru2\obj\Debug\Soru2.pdb
