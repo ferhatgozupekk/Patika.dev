@@ -1,0 +1,5 @@
+C:\Users\fener\Desktop\MutlakKareAlma\obj\Debug\net6.0\MutlakKareAlma.csproj.AssemblyReference.cache
+C:\Users\fener\Desktop\MutlakKareAlma\obj\Debug\net6.0\MutlakKareAlma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fener\Desktop\MutlakKareAlma\obj\Debug\net6.0\MutlakKareAlma.AssemblyInfoInputs.cache
+C:\Users\fener\Desktop\MutlakKareAlma\obj\Debug\net6.0\MutlakKareAlma.AssemblyInfo.cs
+C:\Users\fener\Desktop\MutlakKareAlma\obj\Debug\net6.0\MutlakKareAlma.csproj.CoreCompileInputs.cache

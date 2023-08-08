@@ -1,0 +1,15 @@
+C:\Users\fener\Desktop\DaireCiz\bin\Debug\net6.0\DaireCiz.exe
+C:\Users\fener\Desktop\DaireCiz\bin\Debug\net6.0\DaireCiz.deps.json
+C:\Users\fener\Desktop\DaireCiz\bin\Debug\net6.0\DaireCiz.runtimeconfig.json
+C:\Users\fener\Desktop\DaireCiz\bin\Debug\net6.0\DaireCiz.dll
+C:\Users\fener\Desktop\DaireCiz\bin\Debug\net6.0\DaireCiz.pdb
+C:\Users\fener\Desktop\DaireCiz\obj\Debug\net6.0\DaireCiz.csproj.AssemblyReference.cache
+C:\Users\fener\Desktop\DaireCiz\obj\Debug\net6.0\DaireCiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fener\Desktop\DaireCiz\obj\Debug\net6.0\DaireCiz.AssemblyInfoInputs.cache
+C:\Users\fener\Desktop\DaireCiz\obj\Debug\net6.0\DaireCiz.AssemblyInfo.cs
+C:\Users\fener\Desktop\DaireCiz\obj\Debug\net6.0\DaireCiz.csproj.CoreCompileInputs.cache
+C:\Users\fener\Desktop\DaireCiz\obj\Debug\net6.0\DaireCiz.dll
+C:\Users\fener\Desktop\DaireCiz\obj\Debug\net6.0\refint\DaireCiz.dll
+C:\Users\fener\Desktop\DaireCiz\obj\Debug\net6.0\DaireCiz.pdb
+C:\Users\fener\Desktop\DaireCiz\obj\Debug\net6.0\DaireCiz.genruntimeconfig.cache
+C:\Users\fener\Desktop\DaireCiz\obj\Debug\net6.0\ref\DaireCiz.dll
